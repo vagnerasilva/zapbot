@@ -237,7 +237,7 @@ app.get('/teste', function(req, res) {
 	console.log("teste");
 
 var msg = " testando envio"
-var senderID = '5511993288708'
+var senderID = '5511993567809'
     msgenviarnumero(senderID, msg) 
 
 	res.send({
